@@ -1,0 +1,1 @@
+# This is LP-2 assignment 1 B with javascript, jquery and ajax with simple code
